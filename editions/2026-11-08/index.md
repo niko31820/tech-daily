@@ -1,4 +1,6 @@
-# JOURNAL DE PRESSE TECH
+# Revue de presse tech
+
+by Trinity
 
 ## Le brief du dimanche 8 novembre 2026
 

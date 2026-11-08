@@ -1,4 +1,6 @@
-# Tech Daily
+# Revue de presse tech
+
+by Trinity
 
 https://niko31820.github.io/tech-daily/
 
