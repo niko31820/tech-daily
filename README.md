@@ -1,2 +1,5 @@
-# tech-daily
-Chaque jour un résumé de l'actu tech
+# Tech Daily
+
+https://niko31820.github.io/tech-daily/
+
+Magazine quotidien — 18 h 30 Europe/Paris.
